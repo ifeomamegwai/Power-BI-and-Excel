@@ -1,2 +1,2 @@
 # Power-BI-and-Excel
-Power BI and Excel related works
+Power BI, Excel and SQL related works
